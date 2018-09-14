@@ -1,0 +1,6 @@
+export const SET_MENUS = 'USER/SET_MENUS'
+export const SET_BUTTONS = 'USER/SET_BUTTONS'
+export const SET_AUTH = 'USER/SET_AUTH'
+export const SET_NAME = 'USER/SET_NAME'
+export const SET_TOKEN = 'USER/SET_TOKEN'
+export const SET_ROUTES = 'USER/SET_ROUTES'
